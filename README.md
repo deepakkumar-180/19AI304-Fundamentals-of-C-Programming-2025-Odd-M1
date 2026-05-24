@@ -143,7 +143,8 @@ int main() {
 
 # Output:
 
-![Uploading 515628973-87335803-b064-42b8-b193-898eff9129de.png…]()
+<img width="534" height="276" alt="515628973-87335803-b064-42b8-b193-898eff9129de" src="https://github.com/user-attachments/assets/b491873f-eb12-43d3-b6b1-a8d1e14959f5" />
+
 
 # Result: 
 
